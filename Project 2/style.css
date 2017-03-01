@@ -1,0 +1,48 @@
+section#contact {
+	border: solid 5px green;
+	text-align: center;
+	background-color:white;
+	padding-bottom:3px;
+}
+section#contact > p{
+	width: 378px;
+	margin-left: 181px;
+}
+section#contact > h2 {
+	font-size: 3em;
+	text-align:center;
+}
+div#experience > section, div#aboutme, div#spacexvideo {
+	margin-top:10px;
+	border: solid 5px #8C4646;
+}
+div#contact_list {
+	margin-top:10px;
+	text-align: center;
+	border: solid 5px #8b0000;
+}
+img#iit{
+	display:block;
+	margin: 0 auto;
+}
+
+ul > li {
+	list-style-type: inherit;
+	list-style-position: inside;
+	padding-left: 10px;
+}
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+h3 {
+	font-weight:bold;
+	font-size: 22px;
+}
+div#body, section#body{
+	margin: 0 auto;
+	padding:0;
+	width: 750px;
+}
